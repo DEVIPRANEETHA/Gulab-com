@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;fronend&apos; to &apos;backend&apos;" description="Rename resource &apos;fronend&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/fronend" name="backend" stamp="1518717107293" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;Servers/Tomcat v8.5 Server at localhost-config&apos;" deleteContents="false" description="Delete resource &apos;Servers/Tomcat v8.5 Server at localhost-config&apos;" element1="/Servers/Tomcat v8.5 Server at localhost-config" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1518779684695"/>
+</session>

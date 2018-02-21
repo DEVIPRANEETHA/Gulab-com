@@ -1,0 +1,4 @@
+com\gulab\backend\DAOImpl\UserDaoImpl.class
+com\gulab\backend\config\HibernateConfig.class
+com\gulab\backend\DAO\UserDao.class
+com\gulab\backend\models\UserModel.class
